@@ -23,8 +23,8 @@
 
 # Доп. Программы и Сайты
 ## Сайты:
-`https://www.onlinegdb.com/` - Онлайн компилятор
-`https://programforyou.ru/block-diagram-redactor` - Создание блок-схем
+`https://www.onlinegdb.com/` - Онлайн компилятор  
+`https://programforyou.ru/block-diagram-redactor` - Создание блок-схем  
 `https://ru.wikibooks.org/wiki/LaTeX` - LaTeX документация
 	
 ## Программы:
