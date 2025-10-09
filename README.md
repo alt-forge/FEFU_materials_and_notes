@@ -23,12 +23,12 @@
 
 # Доп. Программы и Сайты
 ## Сайты:
-	https://www.onlinegdb.com/ - Онлайн компилятор
-	https://programforyou.ru/block-diagram-redactor - Создание блок-схем
-	https://ru.wikibooks.org/wiki/LaTeX - LaTeX документация
+`https://www.onlinegdb.com/` - Онлайн компилятор
+`https://programforyou.ru/block-diagram-redactor` - Создание блок-схем
+`https://ru.wikibooks.org/wiki/LaTeX` - LaTeX документация
 	
 ## Программы:
-	https://ru.windjvu.com/ - программа для чтения учебников в формате .djvu
+`https://ru.windjvu.com/` - программа для чтения учебников в формате .djvu
 
 
 
